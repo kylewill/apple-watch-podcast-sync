@@ -33,7 +33,6 @@ fs.appendFile(log_file, JSON.stringify(podcasts), (err) => {
 });
 
 
-
 var top_10 = times.sort(sortNumber).slice(0, 10);
 
 console.log(JSON.stringify(top_10))
