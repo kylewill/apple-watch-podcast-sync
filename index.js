@@ -8,7 +8,6 @@ const temp_dir = 'ADD_DIR';
 const add_to_itunes_dir = '/Users/YOUR_USERNAME/Music/iTunes/iTunes\ Media/Automatically\ Add\ to\ iTunes.localized/';
 const new_genre = 'Watch Podcast';
 
-
 var times = [];
 
 var podcasts = {}
